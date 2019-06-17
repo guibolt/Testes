@@ -1,0 +1,11 @@
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\bin\Debug\netcoreapp2.2\Potencia.deps.json
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\bin\Debug\netcoreapp2.2\Potencia.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\bin\Debug\netcoreapp2.2\Potencia.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\bin\Debug\netcoreapp2.2\Potencia.dll
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\bin\Debug\netcoreapp2.2\Potencia.pdb
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\obj\Debug\netcoreapp2.2\Potencia.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\obj\Debug\netcoreapp2.2\Potencia.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\obj\Debug\netcoreapp2.2\Potencia.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\obj\Debug\netcoreapp2.2\Potencia.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\obj\Debug\netcoreapp2.2\Potencia.dll
+C:\Users\Treinamento 5\source\repos\Potencia\Potencia\obj\Debug\netcoreapp2.2\Potencia.pdb

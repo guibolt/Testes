@@ -1,0 +1,4 @@
+C:\Users\Treinamento 5\source\repos\TesteVetor\obj\Debug\netcoreapp2.2\TesteVetor.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\TesteVetor\obj\Debug\netcoreapp2.2\TesteVetor.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\TesteVetor\obj\Debug\netcoreapp2.2\TesteVetor.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\TesteVetor\obj\Debug\netcoreapp2.2\TesteVetor.AssemblyInfo.cs

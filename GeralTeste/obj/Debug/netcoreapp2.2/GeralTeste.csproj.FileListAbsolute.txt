@@ -1,0 +1,11 @@
+C:\Users\Treinamento 5\source\repos\GeralTeste\bin\Debug\netcoreapp2.2\GeralTeste.deps.json
+C:\Users\Treinamento 5\source\repos\GeralTeste\bin\Debug\netcoreapp2.2\GeralTeste.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\GeralTeste\bin\Debug\netcoreapp2.2\GeralTeste.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\GeralTeste\bin\Debug\netcoreapp2.2\GeralTeste.dll
+C:\Users\Treinamento 5\source\repos\GeralTeste\bin\Debug\netcoreapp2.2\GeralTeste.pdb
+C:\Users\Treinamento 5\source\repos\GeralTeste\obj\Debug\netcoreapp2.2\GeralTeste.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\GeralTeste\obj\Debug\netcoreapp2.2\GeralTeste.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\GeralTeste\obj\Debug\netcoreapp2.2\GeralTeste.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\GeralTeste\obj\Debug\netcoreapp2.2\GeralTeste.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\GeralTeste\obj\Debug\netcoreapp2.2\GeralTeste.dll
+C:\Users\Treinamento 5\source\repos\GeralTeste\obj\Debug\netcoreapp2.2\GeralTeste.pdb

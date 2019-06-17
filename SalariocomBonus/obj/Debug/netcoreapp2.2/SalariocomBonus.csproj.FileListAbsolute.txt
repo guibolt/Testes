@@ -1,0 +1,11 @@
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\bin\Debug\netcoreapp2.2\SalariocomBonus.deps.json
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\bin\Debug\netcoreapp2.2\SalariocomBonus.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\bin\Debug\netcoreapp2.2\SalariocomBonus.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\bin\Debug\netcoreapp2.2\SalariocomBonus.dll
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\bin\Debug\netcoreapp2.2\SalariocomBonus.pdb
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\obj\Debug\netcoreapp2.2\SalariocomBonus.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\obj\Debug\netcoreapp2.2\SalariocomBonus.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\obj\Debug\netcoreapp2.2\SalariocomBonus.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\obj\Debug\netcoreapp2.2\SalariocomBonus.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\obj\Debug\netcoreapp2.2\SalariocomBonus.dll
+C:\Users\Treinamento 5\source\repos\SalariocomBonus\obj\Debug\netcoreapp2.2\SalariocomBonus.pdb

@@ -1,0 +1,4 @@
+C:\Users\Treinamento 5\source\repos\Teste\Teste\obj\Debug\netcoreapp2.2\Teste.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\Teste\Teste\obj\Debug\netcoreapp2.2\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\Teste\Teste\obj\Debug\netcoreapp2.2\Teste.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\Teste\Teste\obj\Debug\netcoreapp2.2\Teste.AssemblyInfo.cs

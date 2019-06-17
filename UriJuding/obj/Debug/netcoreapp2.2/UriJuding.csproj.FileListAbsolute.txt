@@ -1,0 +1,11 @@
+C:\Users\Treinamento 5\source\repos\UriJuding\bin\Debug\netcoreapp2.2\UriJuding.deps.json
+C:\Users\Treinamento 5\source\repos\UriJuding\bin\Debug\netcoreapp2.2\UriJuding.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\UriJuding\bin\Debug\netcoreapp2.2\UriJuding.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\UriJuding\bin\Debug\netcoreapp2.2\UriJuding.dll
+C:\Users\Treinamento 5\source\repos\UriJuding\bin\Debug\netcoreapp2.2\UriJuding.pdb
+C:\Users\Treinamento 5\source\repos\UriJuding\obj\Debug\netcoreapp2.2\UriJuding.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\UriJuding\obj\Debug\netcoreapp2.2\UriJuding.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\UriJuding\obj\Debug\netcoreapp2.2\UriJuding.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\UriJuding\obj\Debug\netcoreapp2.2\UriJuding.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\UriJuding\obj\Debug\netcoreapp2.2\UriJuding.dll
+C:\Users\Treinamento 5\source\repos\UriJuding\obj\Debug\netcoreapp2.2\UriJuding.pdb

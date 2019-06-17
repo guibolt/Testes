@@ -1,0 +1,11 @@
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\bin\Debug\netcoreapp2.2\ProgramaVetor2.deps.json
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\bin\Debug\netcoreapp2.2\ProgramaVetor2.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\bin\Debug\netcoreapp2.2\ProgramaVetor2.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\bin\Debug\netcoreapp2.2\ProgramaVetor2.dll
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\bin\Debug\netcoreapp2.2\ProgramaVetor2.pdb
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\obj\Debug\netcoreapp2.2\ProgramaVetor2.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\obj\Debug\netcoreapp2.2\ProgramaVetor2.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\obj\Debug\netcoreapp2.2\ProgramaVetor2.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\obj\Debug\netcoreapp2.2\ProgramaVetor2.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\obj\Debug\netcoreapp2.2\ProgramaVetor2.dll
+C:\Users\Treinamento 5\source\repos\ProgramaVetor2\obj\Debug\netcoreapp2.2\ProgramaVetor2.pdb
