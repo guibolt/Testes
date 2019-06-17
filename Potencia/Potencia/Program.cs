@@ -14,7 +14,7 @@ namespace Potencia
             int bas = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Informe o segundo número:");
             int exp = Convert.ToInt32(Console.ReadLine());
-            int pot = 1;
+            int pot = 2;
 
 
             
