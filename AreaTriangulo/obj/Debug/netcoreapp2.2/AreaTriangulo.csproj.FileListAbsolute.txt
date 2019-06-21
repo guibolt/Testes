@@ -1,0 +1,11 @@
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\bin\Debug\netcoreapp2.2\AreaTriangulo.deps.json
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\bin\Debug\netcoreapp2.2\AreaTriangulo.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\bin\Debug\netcoreapp2.2\AreaTriangulo.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\bin\Debug\netcoreapp2.2\AreaTriangulo.dll
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\bin\Debug\netcoreapp2.2\AreaTriangulo.pdb
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\obj\Debug\netcoreapp2.2\AreaTriangulo.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\obj\Debug\netcoreapp2.2\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\obj\Debug\netcoreapp2.2\AreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\obj\Debug\netcoreapp2.2\AreaTriangulo.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\obj\Debug\netcoreapp2.2\AreaTriangulo.dll
+C:\Users\Treinamento 5\source\repos\AreaTriangulo\obj\Debug\netcoreapp2.2\AreaTriangulo.pdb

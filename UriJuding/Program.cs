@@ -1,22 +1,45 @@
 ﻿using System;
 using System.Globalization;
-
-namespace UriJuding
+namespace GeralTeste
 {
     class Program
     {
         static void Main(string[] args)
         {
+            double xA, xB, xC, yA, yB, yC, p, p2, area, area2;
 
-            double R = 0, pi = 3.14159, volume = 0;
+            // Capturando os dados do usuario
+            Console.WriteLine("Entre  com as medisas do triângulo X:");
+            xA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            xB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            xC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-           R = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
-            volume = (4 / 3.0) * pi * Math.Pow(R,3);
+            Console.WriteLine("Entre com as medidas do triângulo Y");
+            yA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            yB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("VOLUME = " + volume.ToString("F3",CultureInfo.InvariantCulture));
+            p = (xA + xB + xC) / 2;
+
+            area = Math.Sqrt(p *(p - xA) *(p - xB) *(p - xC));
+
+            p2 = (yA + yB + yC) / 2;
+
+            area2 = Math.Sqrt(p2 * (p2 - yA) * (p2 - yB ) * (p2 - yC));
+
+            Console.WriteLine($"Area de X {area.ToString("F4",CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Area de Y {area2.ToString("F4",CultureInfo.InvariantCulture)}");
+            
+            if (area > area2)
+            {
+                Console.WriteLine("Maior Area: X");
+            }
+            else
+                Console.WriteLine("Maior Area: Y");
+
+        }
 
 
 
-        }       
     }
 }

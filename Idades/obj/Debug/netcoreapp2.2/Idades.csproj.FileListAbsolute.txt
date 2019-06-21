@@ -1,0 +1,10 @@
+C:\Users\Treinamento 5\source\repos\Idades\bin\Debug\netcoreapp2.2\Idades.deps.json
+C:\Users\Treinamento 5\source\repos\Idades\bin\Debug\netcoreapp2.2\Idades.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\Idades\bin\Debug\netcoreapp2.2\Idades.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\Idades\bin\Debug\netcoreapp2.2\Idades.dll
+C:\Users\Treinamento 5\source\repos\Idades\bin\Debug\netcoreapp2.2\Idades.pdb
+C:\Users\Treinamento 5\source\repos\Idades\obj\Debug\netcoreapp2.2\Idades.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\Idades\obj\Debug\netcoreapp2.2\Idades.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\Idades\obj\Debug\netcoreapp2.2\Idades.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\Idades\obj\Debug\netcoreapp2.2\Idades.dll
+C:\Users\Treinamento 5\source\repos\Idades\obj\Debug\netcoreapp2.2\Idades.pdb
