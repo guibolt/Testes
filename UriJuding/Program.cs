@@ -1,45 +1,53 @@
 ﻿using System;
 using System.Globalization;
+using UriJuding;
 namespace GeralTeste
+
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double xA, xB, xC, yA, yB, yC, p, p2, area, area2;
 
-            // Capturando os dados do usuario
-            Console.WriteLine("Entre  com as medisas do triângulo X:");
-            xA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            xB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            xC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Deseja Alugar quantos Quartos?");
+            int N = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Entre com as medidas do triângulo Y");
-            yA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            yB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-            p = (xA + xB + xC) / 2;
-
-            area = Math.Sqrt(p *(p - xA) *(p - xB) *(p - xC));
-
-            p2 = (yA + yB + yC) / 2;
-
-            area2 = Math.Sqrt(p2 * (p2 - yA) * (p2 - yB ) * (p2 - yC));
-
-            Console.WriteLine($"Area de X {area.ToString("F4",CultureInfo.InvariantCulture)}");
-            Console.WriteLine($"Area de Y {area2.ToString("F4",CultureInfo.InvariantCulture)}");
-            
-            if (area > area2)
+            Aluguel[] vet = new Aluguel[10];
+            int cc = 1;
+            for (int i = 0; i < N; i++)
             {
-                Console.WriteLine("Maior Area: X");
+
+                Console.WriteLine("Aluguel #" + cc);
+
+                Console.WriteLine("Digite seu nome");
+                string nome = Console.ReadLine();
+
+                Console.WriteLine("Digite seu email");
+                string email = Console.ReadLine();
+
+                Console.WriteLine("Qual quarto quer alugar ?");
+                int quarto = Convert.ToInt32(Console.ReadLine());
+
+
+                vet[quarto] = new Aluguel(nome, email);
+
+                cc++;
+ 
+
+
+
             }
-            else
-                Console.WriteLine("Maior Area: Y");
+
+            for (int i = 0; i <N ; i++)
+            {
+                Console.WriteLine($"Nome: {vet[i].nome}");
+            }
+
 
         }
-
-
-
     }
+
 }
+
+
+

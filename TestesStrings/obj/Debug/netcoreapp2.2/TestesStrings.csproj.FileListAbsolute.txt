@@ -1,0 +1,11 @@
+C:\Users\Treinamento 5\source\repos\TestesStrings\bin\Debug\netcoreapp2.2\TestesStrings.deps.json
+C:\Users\Treinamento 5\source\repos\TestesStrings\bin\Debug\netcoreapp2.2\TestesStrings.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\TestesStrings\bin\Debug\netcoreapp2.2\TestesStrings.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\TestesStrings\bin\Debug\netcoreapp2.2\TestesStrings.dll
+C:\Users\Treinamento 5\source\repos\TestesStrings\bin\Debug\netcoreapp2.2\TestesStrings.pdb
+C:\Users\Treinamento 5\source\repos\TestesStrings\obj\Debug\netcoreapp2.2\TestesStrings.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\TestesStrings\obj\Debug\netcoreapp2.2\TestesStrings.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\TestesStrings\obj\Debug\netcoreapp2.2\TestesStrings.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\TestesStrings\obj\Debug\netcoreapp2.2\TestesStrings.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\TestesStrings\obj\Debug\netcoreapp2.2\TestesStrings.dll
+C:\Users\Treinamento 5\source\repos\TestesStrings\obj\Debug\netcoreapp2.2\TestesStrings.pdb
