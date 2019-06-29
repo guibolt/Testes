@@ -9,3 +9,14 @@ C:\Users\guibo\source\Arquivos de lá\Testes\Pedidos\obj\Debug\netcoreapp2.2\Ped
 C:\Users\guibo\source\Arquivos de lá\Testes\Pedidos\obj\Debug\netcoreapp2.2\Pedidos.AssemblyInfo.cs
 C:\Users\guibo\source\Arquivos de lá\Testes\Pedidos\obj\Debug\netcoreapp2.2\Pedidos.dll
 C:\Users\guibo\source\Arquivos de lá\Testes\Pedidos\obj\Debug\netcoreapp2.2\Pedidos.pdb
+C:\Users\Treinamento 5\source\repos\Pedidos\bin\Debug\netcoreapp2.2\Pedidos.deps.json
+C:\Users\Treinamento 5\source\repos\Pedidos\bin\Debug\netcoreapp2.2\Pedidos.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\Pedidos\bin\Debug\netcoreapp2.2\Pedidos.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\Pedidos\bin\Debug\netcoreapp2.2\Pedidos.dll
+C:\Users\Treinamento 5\source\repos\Pedidos\bin\Debug\netcoreapp2.2\Pedidos.pdb
+C:\Users\Treinamento 5\source\repos\Pedidos\obj\Debug\netcoreapp2.2\Pedidos.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\Pedidos\obj\Debug\netcoreapp2.2\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\Pedidos\obj\Debug\netcoreapp2.2\Pedidos.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\Pedidos\obj\Debug\netcoreapp2.2\Pedidos.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\Pedidos\obj\Debug\netcoreapp2.2\Pedidos.dll
+C:\Users\Treinamento 5\source\repos\Pedidos\obj\Debug\netcoreapp2.2\Pedidos.pdb
