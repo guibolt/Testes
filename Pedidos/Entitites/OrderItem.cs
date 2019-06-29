@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+using System.Globalization;
 namespace Pedidos.Entitites
 {
     class OrderItem
     {
         public int Quantity { get; set; }
         public double Price { get; set; }
-        public  Product Product { get; set; }
-       
+        public Product Product { get; set; }
+
+    
         public OrderItem()
         {
 
@@ -19,24 +20,44 @@ namespace Pedidos.Entitites
         {
             Quantity = quantity;
             Price = price;
+            Product = product;
         }
 
-         public double SubTotal(int quantity,double price)
+         public double SubTotal()
         {
-            return quantity * price;
+            return Quantity * Price;
         }
-          
 
-        //    public override string ToString()
-        //{
-        //    return Product.NomeProd
-        //        + ", $"
-        //        + Price.ToString("F2", CultureInfo.InvariantCulture)
-        //        + ", Quantity"
-        //        + Quantity
-        //        + ", Subtotal: $"
-        //        + SuBTotal().ToString("F2", CultureInfo.InvariantCulture);
+        public override string ToString()
+        {
+            return Product.Name
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + ", Quantity"
+                + Quantity
+                + ", Subtotal: $"
+                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
 
-        //}
+        }
+
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
